@@ -43,10 +43,9 @@ font-size: 20px;
 .line {
 text-decoration: line-through;
 }
-.gallery-image {
-    width: 70%;
-    max-width: 600px;
+.gallery-thumbnail {
+    width: 400px;
     height: auto;
     display: block;
-    margin: 30px auto;
+    margin: 20px auto;
 }
