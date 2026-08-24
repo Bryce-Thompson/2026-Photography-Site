@@ -187,6 +187,23 @@
     <img id="lightbox-image" src="" alt="Full resolution photograph">
 
 </div>
+	<script>
+
+function openLightbox(imageSource) {
+
+    document.getElementById("lightbox-image").src = imageSource;
+
+    document.getElementById("lightbox").style.display = "flex";
+
+}
+
+function closeLightbox() {
+
+    document.getElementById("lightbox").style.display = "none";
+
+}
+
+</script>
 </body>
 </html>
 
