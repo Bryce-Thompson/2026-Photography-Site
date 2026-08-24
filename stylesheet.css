@@ -44,9 +44,9 @@ font-size: 20px;
 text-decoration: line-through;
 }
 .gallery-image {
-    width: 80%;
-    max-width: 1000px;
+    width: 90%;
+    max-width: 1200px;
     height: auto;
     display: block;
-    margin: 20px auto;
+    margin: 30px auto;
 }
