@@ -45,7 +45,7 @@ text-decoration: line-through;
 }
 .gallery-image {
     width: 90%;
-    max-width: 1200px;
+    max-width: 600px;
     height: auto;
     display: block;
     margin: 30px auto;
